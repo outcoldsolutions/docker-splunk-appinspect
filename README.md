@@ -12,7 +12,7 @@ to Splunkbase as either a standard or certified app.
 ## Version
 
 ```
-outcoldsolutions/splunk-appinspect:1.5.4.145
+outcoldsolutions/splunk-appinspect:1.6.0
 ```
 
 ## How to use
