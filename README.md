@@ -12,18 +12,18 @@ to Splunkbase as either a standard or certified app.
 ## Version
 
 ```
-outcoldsolutions/splunk-appinspect:2.0.1
+outcoldsolutions/splunk-appinspect:2.3.1
 ```
 
 ## How to use
 
 ```
-docker pull outcoldsolutions/splunk-appinspect:latest
+docker pull outcoldsolutions/splunk-appinspect:2.3.1
 
 ```
 
 Run next command in the folder, that contains Splunk applications
 
 ```
-docker run --volume $(pwd):/src --rm outcoldsolutions/splunk-appinspect:latest
+docker run --volume $(pwd):/src --rm outcoldsolutions/splunk-appinspect:2.3.1
 ```
